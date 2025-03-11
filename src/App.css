@@ -1,0 +1,66 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #ffb085;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  text-align: center;
+}
+
+.password-screen, .message-screen {
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #ff914d;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+}
+
+h2, h1 {
+  color: #fff;
+}
+
+input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  width: 80%;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff5e00;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #d94e00;
+}
+
+.wrong-msg {
+  color: #fff;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+ 
