@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ananthi-Varadha/Message.git/static/css/main.c21ec7b1.css",
-    "main.js": "/Ananthi-Varadha/Message.git/static/js/main.1bbb09fb.js",
-    "static/js/453.6a7295bf.chunk.js": "/Ananthi-Varadha/Message.git/static/js/453.6a7295bf.chunk.js",
-    "static/media/gif": "/Ananthi-Varadha/Message.git/static/media/9f848fc9236ccf99b090961065c59e9b.95dd67e7109bda47fa43.gif",
-    "index.html": "/Ananthi-Varadha/Message.git/index.html",
-    "main.c21ec7b1.css.map": "/Ananthi-Varadha/Message.git/static/css/main.c21ec7b1.css.map",
-    "main.1bbb09fb.js.map": "/Ananthi-Varadha/Message.git/static/js/main.1bbb09fb.js.map",
-    "453.6a7295bf.chunk.js.map": "/Ananthi-Varadha/Message.git/static/js/453.6a7295bf.chunk.js.map"
+    "main.css": "/message%20/static/css/main.c21ec7b1.css",
+    "main.js": "/message%20/static/js/main.927e6b86.js",
+    "static/js/453.6a7295bf.chunk.js": "/message%20/static/js/453.6a7295bf.chunk.js",
+    "static/media/gif": "/message%20/static/media/9f848fc9236ccf99b090961065c59e9b.95dd67e7109bda47fa43.gif",
+    "index.html": "/message%20/index.html",
+    "main.c21ec7b1.css.map": "/message%20/static/css/main.c21ec7b1.css.map",
+    "main.927e6b86.js.map": "/message%20/static/js/main.927e6b86.js.map",
+    "453.6a7295bf.chunk.js.map": "/message%20/static/js/453.6a7295bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c21ec7b1.css",
-    "static/js/main.1bbb09fb.js"
+    "static/js/main.927e6b86.js"
   ]
 }
